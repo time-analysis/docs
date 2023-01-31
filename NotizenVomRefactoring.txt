@@ -1,0 +1,14 @@
+Sprachgebrauch:
+Projekt -> mehrere Issues
+
+programmiertechnisch umgesetzt:
+Issue wird Projekt zugeordnet
+
+Entry wird Lecture zugeordnet - eher Entity, da erst mit eintragen eines Endzeitpunktes fertiggestellt
+Lecture wird Semester zugeordnet VO
+Semester VO
+
+Ausnahme: Vorlesungen die sich über zwei Semester erstrecken -> Teil 1 und Teil 2
+
+Dauer bei Einträgen: erstmal nur mit Start/Stop
+Möglichkeiten für Dauer: eigene Klasse, evtl. mit eingetragen am...
